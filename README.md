@@ -11,7 +11,7 @@ This program allows you to do the following:
 * Decode an encrypted/a decrypted `.mdt` files to `.json`.
 * Encode `.json` file back to encrypted/decrypted `.mdt` file.
 * Export strings from `.mdt` file or decoded `.json` file to `.csv` file.
-* Import string from `.csv` file back to `.mdt` file or decoded `.json` file.
+* Import strings from `.csv` file back to `.mdt` file or decoded `.json` file.
 
 
 ## Supported Games
