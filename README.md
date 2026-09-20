@@ -1,10 +1,9 @@
-# gs-tools-py
-
-#### Gyakuten Saiban (Ace Attorney: Trilogy) data manipulation tools.
+<h1 align="center">GS Tools</h4>
+<h4 align="center">Gyakuten Saiban (Ace Attorney: Trilogy) data manipulation tools</h4>
 <div align="center">
-	<a href="https://github.com/Veydzher/gs-tools-py/blob/master/LICENSE">
-		<img src="https://img.shields.io/github/license/Veydzher/gs-tools-py.svg?"/>
-	</a>
+    <a href="https://github.com/Veydzher/gs-tools-py/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/Veydzher/gs-tools-py.svg?"/>
+    </a>
 </div>
 
 ## Information
